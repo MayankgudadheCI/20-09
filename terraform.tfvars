@@ -1,3 +1,3 @@
-RDS_AZ       = ""      
-subnet_count = 3
+RDS_AZ       = "eu-west-1b"      
+subnet_count = 2
 
